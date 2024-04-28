@@ -1,0 +1,37 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Heebo-Medium.ttf",
+      "sha1": "447ec0b46629c8cbd11aac2630a81415d9a0b938"
+    },
+    {
+      "path": "assets/fonts/Kanit-Light.ttf",
+      "sha1": "5f73684474721ddfc98168f5b8a634d7552e89d4"
+    },
+    {
+      "path": "assets/fonts/Kanit-Regular.ttf",
+      "sha1": "4d7b70e9717ae0adecc332fac9af7457063886a4"
+    },
+    {
+      "path": "assets/fonts/MerriweatherSans-Medium.ttf",
+      "sha1": "2c6097ee1457ebd161b5ab13d4e9b8ae87eee247"
+    },
+    {
+      "path": "assets/fonts/MerriweatherSans-Regular.ttf",
+      "sha1": "224cf0af5cbbef5730dac9518f0348b9b4a81c91"
+    },
+    {
+      "path": "assets/fonts/MerriweatherSans-SemiBold.ttf",
+      "sha1": "bab9ec85c6bdc532619c253cdf3a3c8a26081aba"
+    },
+    {
+      "path": "assets/fonts/OpenSans-SemiBold.ttf",
+      "sha1": "9b1adfbc773bb8bd1e6c4ca85c34441a43c2bc54"
+    },
+    {
+      "path": "assets/fonts/Rubik-Regular.ttf",
+      "sha1": "9d7091d63f35c9d28518b06566442a02b306980a"
+    }
+  ]
+}
